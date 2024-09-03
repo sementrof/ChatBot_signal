@@ -37,7 +37,7 @@ def create_button() -> InlineKeyboardMarkup:
 
 # Функция для создания второй кнопки с гиперссылкой
 def create_second_button() -> InlineKeyboardMarkup:
-    button = InlineKeyboardButton("💰Ссылка на сайт💰", url='https://1wkaml.life/casino/list?open=register&p=pcj5')
+    button = InlineKeyboardButton("💰Ссылка на сайт💰", url='https://1wimdx.life/casino/list?open=register&p=pcj5')
     return InlineKeyboardMarkup([[button]])
 
 # Функция для создания третьей кнопки
